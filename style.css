@@ -19,7 +19,6 @@ header {
   width: 100%;
   padding: 20px 10%;
   background-color: yellowgreen;
-  background: transparent;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -106,7 +105,7 @@ header {
   background-color: transparent;
   color: #00abf0;
 }
-
+/* a태그 버튼에 마우스 올릴떄 가상클래스에 적용됨  */
 .btn-box a::before {
   content: "";
   position: absolute;
