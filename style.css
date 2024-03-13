@@ -9,6 +9,7 @@
 
 body {
   background-color: #081b29;
+  color: #ededed;
 }
 
 header {
@@ -18,6 +19,7 @@ header {
   width: 100%;
   padding: 20px 10%;
   background-color: yellowgreen;
+  background: transparent;
   display: flex;
   justify-content: space-between;
   align-items: center;
